@@ -1,0 +1,15 @@
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\bin\Debug\net6.0\example_002_HelloUsername.exe
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\bin\Debug\net6.0\example_002_HelloUsername.deps.json
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\bin\Debug\net6.0\example_002_HelloUsername.runtimeconfig.json
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\bin\Debug\net6.0\example_002_HelloUsername.dll
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\bin\Debug\net6.0\example_002_HelloUsername.pdb
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\obj\Debug\net6.0\example_002_HelloUsername.csproj.AssemblyReference.cache
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\obj\Debug\net6.0\example_002_HelloUsername.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\obj\Debug\net6.0\example_002_HelloUsername.AssemblyInfoInputs.cache
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\obj\Debug\net6.0\example_002_HelloUsername.AssemblyInfo.cs
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\obj\Debug\net6.0\example_002_HelloUsername.csproj.CoreCompileInputs.cache
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\obj\Debug\net6.0\example_002_HelloUsername.dll
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\obj\Debug\net6.0\refint\example_002_HelloUsername.dll
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\obj\Debug\net6.0\example_002_HelloUsername.pdb
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\obj\Debug\net6.0\example_002_HelloUsername.genruntimeconfig.cache
+C:\Users\Corei3\Desktop\cs_lecture_one\example_002_HelloUsername\obj\Debug\net6.0\ref\example_002_HelloUsername.dll
