@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mAahtNbudCLiC/QdEolAq6XpO6f7RvNKdT1DMsTh/d/3ud7Agy1cl13NFKjmmblcp1eEsTcfAJA57Y5TSyPhag==",
+  "dgSpecHash": "jOBbTR0D7lReOQFKHzWNjZmIdofIPemNaIl3igNu6Vv9SVruxQMRAkZIrwj8Xl/TgX0Zz0mjBfI7l6ssPW9EvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Corei3\\Desktop\\cs_lecture_one\\example_002_HelloUsername\\example_002_HelloUsername.csproj",
+  "projectFilePath": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_002_HelloUsername/example_002_HelloUsername.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

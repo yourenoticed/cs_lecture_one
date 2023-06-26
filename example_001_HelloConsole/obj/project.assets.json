@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Corei3\\.nuget\\packages\\": {}
+    "/home/noticed/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Corei3\\Desktop\\cs_lecture_one\\example_001_HelloConsole\\example_001_HelloConsole.csproj",
+      "projectUniqueName": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj",
       "projectName": "example_001_HelloConsole",
-      "projectPath": "C:\\Users\\Corei3\\Desktop\\cs_lecture_one\\example_001_HelloConsole\\example_001_HelloConsole.csproj",
-      "packagesPath": "C:\\Users\\Corei3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Corei3\\Desktop\\cs_lecture_one\\example_001_HelloConsole\\obj\\",
+      "projectPath": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj",
+      "packagesPath": "/home/noticed/.nuget/packages/",
+      "outputPath": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_001_HelloConsole/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Corei3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/noticed/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,8 +49,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -59,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.118/RuntimeIdentifierGraph.json"
       }
     }
   }

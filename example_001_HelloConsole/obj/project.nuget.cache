@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nuzrbB5ReAonc/r6xkVVm7KJ2RNQ0u+Eo/5LIERzx1bi5EJhWwQe1p3tEUaLU5SMaJwlEBaa2c3LsHMUdIfYfg==",
+  "dgSpecHash": "W4ZI9prsIIQ3X6xufubMCJstxtnyjHeiMoqAzHCBbKBX9tob56G5JIOLw8dkLcm5fu4yHOEy0BzqQS44SxoMzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Corei3\\Desktop\\cs_lecture_one\\example_001_HelloConsole\\example_001_HelloConsole.csproj",
+  "projectFilePath": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
