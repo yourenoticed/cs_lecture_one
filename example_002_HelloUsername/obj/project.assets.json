@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_002_HelloUsername/example_002_HelloUsername.csproj",
+      "projectUniqueName": "/home/noticed/Desktop/cs_lecture_one/example_002_HelloUsername/example_002_HelloUsername.csproj",
       "projectName": "example_002_HelloUsername",
-      "projectPath": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_002_HelloUsername/example_002_HelloUsername.csproj",
+      "projectPath": "/home/noticed/Desktop/cs_lecture_one/example_002_HelloUsername/example_002_HelloUsername.csproj",
       "packagesPath": "/home/noticed/.nuget/packages/",
-      "outputPath": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_002_HelloUsername/obj/",
+      "outputPath": "/home/noticed/Desktop/cs_lecture_one/example_002_HelloUsername/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/noticed/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.118/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.119/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj": {}
+    "/home/noticed/Desktop/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj": {}
   },
   "projects": {
-    "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj": {
+    "/home/noticed/Desktop/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj",
+        "projectUniqueName": "/home/noticed/Desktop/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj",
         "projectName": "example_001_HelloConsole",
-        "projectPath": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj",
+        "projectPath": "/home/noticed/Desktop/cs_lecture_one/example_001_HelloConsole/example_001_HelloConsole.csproj",
         "packagesPath": "/home/noticed/.nuget/packages/",
-        "outputPath": "/home/noticed/Desktop/c_kuchno/cs_lecture_one/example_001_HelloConsole/obj/",
+        "outputPath": "/home/noticed/Desktop/cs_lecture_one/example_001_HelloConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/noticed/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.118/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.119/RuntimeIdentifierGraph.json"
         }
       }
     }
